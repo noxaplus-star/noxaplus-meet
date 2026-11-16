@@ -1,7 +1,7 @@
 {
   "name": "noxaplus-meet",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A local-first Persian meeting minutes workspace by NoxaPlus. Turn raw transcripts into decisions, actions, owners, and due dates with a rule-based engine.",
   "author": "NoxaPlus <NoxaPlus2025@gmail.com>",
   "license": "MIT",

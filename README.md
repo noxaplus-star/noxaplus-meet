@@ -1,3 +1,5 @@
+<p align="center"><img src="docs/brand.png" alt="NoxaPlus" width="520"></p>
+
 # NoxaPlus Meet
 
 A local-first Persian meeting library and transcript-to-minutes workspace by **NoxaPlus**. Organize meeting transcripts, extract a starting draft of minutes, review the evidence, and track decisions and follow-up actions in your browser.

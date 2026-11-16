@@ -2,6 +2,15 @@
 
 Notable changes to NoxaPlus Meet are documented here. Dates use the Gregorian calendar. Application meeting dates and deadlines use the Jalali calendar.
 
+## 1.0.1 - 2026-11-16
+
+Brand update.
+
+- The meeting library sidebar now shows the original NoxaPlus logo instead of
+  the product letter mark.
+- The README uses the official NoxaPlus brand banner.
+- Version labels now read 1.0.1.
+
 ## [1.0.0] - 2026-11-12
 
 ### Added

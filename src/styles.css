@@ -81,6 +81,7 @@ p, h1, h2, h3 { margin: 0; }
 .logo__plus { color: #f19167; }
 .logo__product { font-size: 9px; color: #aab6cb; }
 .logo-mark { flex-shrink: 0; }
+.logo-img { display: block; width: auto; flex-shrink: 0; }
 .library__close, .topbar__menu { display: none; }
 .library__new { width: 100%; background: #e4572e; color: #fff; box-shadow: 0 5px 16px #e4572e1f; }
 .library__new:hover:not(:disabled) { background: #ce4824; }

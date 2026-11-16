@@ -1,3 +1,5 @@
+import markLight from '../assets/mark-light.png';
+
 interface LogoProps {
   size?: number;
   showText?: boolean;
@@ -46,7 +48,7 @@ export function LogoMark({ size = 40 }: { size?: number }) {
 export function Logo({ size = 42, showText = true }: LogoProps) {
   return (
     <div className="logo">
-      <LogoMark size={size} />
+      <img className="logo-img" src={markLight} alt="NoxaPlus" style={{ height: Math.max(44, size + 6) }} />
       {showText ? (
         <div className="logo__text">
           <span className="logo__name">
